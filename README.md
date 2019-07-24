@@ -1,2 +1,2 @@
 # Documentation
-Documentation of SuperEOS
+Documentation of SuperEOS.
